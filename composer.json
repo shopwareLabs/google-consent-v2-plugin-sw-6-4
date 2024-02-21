@@ -1,0 +1,43 @@
+{
+    "name": "brocksinet/google-consent-v2",
+    "description": "Plugin for Google Consent Mode V2 for Shopware 6.4.x",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "shopware AG",
+            "role": "Manufacturer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BrocksiNet\\": "src/"
+        }
+    },
+    "require": {
+        "shopware/core": "^6.4"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "extra": {
+        "shopware-plugin-class": "BrocksiNet\\GoogleConsentV2",
+        "description": {
+            "de-DE": "Plugin für Google Consent Mode V2 für Shopware 6.4.x",
+            "en-GB": "Plugin for Google Consent Mode V2 for Shopware 6.4.x"
+        },
+        "manufacturerLink": {
+            "de-DE": "https://www.brocksi.net",
+            "en-GB": "https://www.brocksi.net"
+        },
+        "supportLink": {
+            "de-DE": "https://www.brocksi.net",
+            "en-GB": "https://www.brocksi.net"
+        },
+        "label": {
+            "de-DE": "BrocksiNet",
+            "en-GB": "BrocksiNet"
+        }
+    }
+}
