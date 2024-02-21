@@ -14,7 +14,7 @@ composer require shopwarelabs/google-consent-v2
 
 Download the [ZIP](https://github.com/shopwareLabs/google-consent-v2-plugin-sw-6-4/archive/refs/tags/v0.0.1.zip) and install it via Admin Panel for your Shopware 6.4.x Version.
 
-## What about Shopware Versions greater than 6.4.x?
+## What about Shopware Versions greater than 6.5.8.5?
 You do not need to install this plugin. Changes are already included in Core. See this [commit](https://github.com/shopware/shopware/commit/c66a460de573ddd6cbfe0a8df2b40d0b6746cbb8).
 
 ## Issues or problems?
