@@ -1,5 +1,5 @@
 {
-    "name": "shopwareLabs/google-consent-v2",
+    "name": "shopwarelabs/google-consent-v2",
     "description": "Plugin for Google Consent Mode V2 for Shopware 6.4.x",
     "type": "shopware-platform-plugin",
     "license": "MIT",
