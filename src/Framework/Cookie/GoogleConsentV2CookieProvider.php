@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace BrocksiNet\Framework\Cookie;
+namespace shopwareLabs\Framework\Cookie;
 
 use Shopware\Storefront\Framework\Cookie\CookieProviderInterface;
 

@@ -5,10 +5,10 @@
            xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
 
     <services>
-        <service id="BrocksiNet\Framework\Cookie\GoogleConsentV2CookieProvider"
+        <service id="shopwareLabs\Framework\Cookie\GoogleConsentV2CookieProvider"
                  decorates="Shopware\Storefront\Framework\Cookie\CookieProviderInterface">
             <argument type="service"
-                      id="BrocksiNet\Framework\Cookie\GoogleConsentV2CookieProvider.inner" />
+                      id="shopwareLabs\Framework\Cookie\GoogleConsentV2CookieProvider.inner" />
         </service>
     </services>
 </container>
