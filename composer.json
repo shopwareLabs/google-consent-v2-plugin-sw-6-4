@@ -36,8 +36,8 @@
             "en-GB": "https://www.shopware.com"
         },
         "label": {
-            "de-DE": "shopwareLabs",
-            "en-GB": "shopwareLabs"
+            "de-DE": "Google Consent Mode V2",
+            "en-GB": "Google Consent Mode V2"
         }
     }
 }
