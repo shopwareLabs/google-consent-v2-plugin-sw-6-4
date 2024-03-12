@@ -3,7 +3,7 @@
     "description": "Plugin for Google Consent Mode V2 for Shopware 6.4.x",
     "type": "shopware-platform-plugin",
     "license": "MIT",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "authors": [
         {
             "name": "shopware AG",
@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "shopware/core": "^6.4.11"
+        "shopware/core": "^6.4"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest"
